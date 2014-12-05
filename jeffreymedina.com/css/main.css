@@ -1,0 +1,41 @@
+﻿body {
+    margin:0px;
+    font-family:Verdana;
+}
+
+.header{
+    height:64px;
+    background-image:url("/images/header_bkgrnd.gif");
+    background-repeat:repeat;
+}
+.innerheader{
+    width:1259px;
+    margin:0 auto;
+}
+.innerheader img{
+    padding-top:5px;
+}
+.innerheaderlt{
+    float:left;
+}
+.innerheaderrt{
+    float:right;
+}
+.innerheaderrt p{
+    font-size:18pt;
+    color:white;
+    margin-top:14px;
+}
+.bodysection{
+    width:1259px;
+    margin:0 auto;
+}
+.headline{
+    font-size:16pt;
+    width:680px;
+}
+.subheadline{
+    font-size:18pt;
+    color:#bdbdbd;
+    text-align:right;
+}
