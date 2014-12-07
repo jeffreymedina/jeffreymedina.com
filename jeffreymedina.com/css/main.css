@@ -31,11 +31,34 @@
     margin:0 auto;
 }
 .headline{
-    font-size:16pt;
+    font-size:14pt;
     width:680px;
 }
 .subheadline{
     font-size:18pt;
     color:#bdbdbd;
     text-align:right;
+}
+.recenthilights{
+    font-size:12pt;
+}
+.recenthilightstable{
+    display:table;
+}
+.recenthilightsrow{
+    display:table-row
+}
+.recenthilightsdivs{
+    display:table-cell;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.contacttxt{
+    font-size:12px;
+}
+clear{
+    clear:both;
+}
+.footer{
+    font-size:10pt;
 }

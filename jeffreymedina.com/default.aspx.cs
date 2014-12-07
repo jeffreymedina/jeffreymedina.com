@@ -11,7 +11,8 @@ namespace jeffreymedina.com
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            DateTime dt = DateTime.Now;
+            footeryear.Text = dt.Year.ToString();
         }
     }
 }
