@@ -22,7 +22,10 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div class="header">
+
+    <div class="bodysection">
+
+            <div class="header">
         <div class="innerheader">
             <div class="innerheaderlt">
                 <img src="images/jm_logo.png" alt="Jeffrey Medina" />
@@ -32,7 +35,8 @@
             </div>
         </div>
     </div>
-    <div class="bodysection">
+
+
         <h1 class="headline">Increasing productivity and profit by the discovery, adoption and implementation of new technologies across the enterprise reducing costs, adding efficiencies and improving customer experience.</h1>
         <p>Hover over the icons below to learn more.</p>
         <h2 class="subheadline">Accomplishments</h2>

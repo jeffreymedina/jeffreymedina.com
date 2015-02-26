@@ -1,6 +1,8 @@
 ﻿body {
     margin:0px;
     font-family:Verdana;
+    background-image:url("/images/header_bkgrnd.gif");
+    background-repeat:repeat-x;
 }
 
 .header{
@@ -27,6 +29,8 @@
     margin-top:14px;
 }
 .bodysection{
+    padding-left:10px;
+    padding-right:10px;
     width:1259px;
     margin:0 auto;
 }
