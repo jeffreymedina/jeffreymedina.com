@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Solution Architect - Cloud, Virtulization, Business Acceleration</title>
+    <title>DRIVING GROWTH THROUGH LEADERSHIP, INNOVATION AND VALUE | Jeffrey Medina</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <link href="css/main.css" rel="stylesheet" />
@@ -19,48 +19,122 @@
         });
     });
     </script>
+
+    
 </head>
 <body>
     <form id="form1" runat="server">
 
-    <div class="bodysection">
-
-            <div class="header">
+<header class="headroom">
+<div class="header">
         <div class="innerheader">
             <div class="innerheaderlt">
                 <img src="images/jm_logo.png" alt="Jeffrey Medina" />
+
+                <p class="headerandtagline">DRIVING GROWTH THROUGH LEADERSHIP, INNOVATION AND VALUE</p>
+
             </div>
             <div class="innerheaderrt">
-                <p>overview</p>
+                <!--p>overview</!--p-->
             </div>
         </div>
     </div>
+    </header>
 
 
-        <h1 class="headline">Increasing productivity and profit by the discovery, adoption and implementation of new technologies across the enterprise reducing costs, adding efficiencies and improving customer experience.</h1>
-        <p>Hover over the icons below to learn more.</p>
-        <h2 class="subheadline">Accomplishments</h2>
-        <img src="images/FunctionTimelineOnly.jpg" usemap="#image-maps-2014-12-05-024618" />
-        <br /><br />
-        <h3 class="recenthilights">Recent Highlights</h3>
-        <hr />
-            <div class="recenthilightstable">
-                <div class="recenthilightsrow">
-                    <div class="recenthilightsdivs">Salesforce Implementation</div>                    <div class="recenthilightsdivs">Marketo Implementation</div>                    <div class="recenthilightsdivs">PCI Security Complaince</div>                    <div class="recenthilightsdivs">Data Center Virtulization</div>
+    <div class="bodysection">
+
+            
+
+        <br />
+    <div class="section1container">
+        <div class="section1containerlt">
+            <h1 class="headline"><strong><em><span class="jeffblue">Pioneering IT / Business leader</span></em></strong> who increases productivity and profit by leading the discovery, adoption and implementation of new technologies across the enterprise; reducing costs, making business operations more efficient and continually improving the customer experience.</h1>
+            <br />
+            <h3 class="recenthilights">Blending Technology and Management Expertise for Business Success</h3>
+            <hr />
+            <div class="gen2column">
+                <div class="genlt">
+                    <ul class="cleanUL">
+                        <li>> 15 yrs. e-commerce & marketing automation</li>
+                        <li>> 15 yrs. in technology leadership role</li>
+                        <li>> 15 yrs. specializing in web & cloud</li>
+                        <li>> 15 yrs. business intelligence</li>
+                        <li>> 13 yrs. security - intrusion|encryption|DDoS</li>
+                        <li>> 11 yrs. business process automation</li>
+                    </ul>
                 </div>
-                <div class="recenthilightsrow">
-                    <div class="recenthilightsdivs">Intacct ERP Implementation</div>
-                    <div class="recenthilightsdivs">Rackspace Implementation</div>
-                    <div class="recenthilightsdivs">Business Intelligence</div>
-                    <div class="recenthilightsdivs">DDos Mitigation</div>
+                <div class="genrt">
+                    <ul class="cleanUL">
+                        <li>> Global Office 365 deployment</li>
+                        <li>> Global Salesforce CRM implementation</li>
+                        <li>> Global Marketo implementation </li>
+                        <li>> Global Intacct ERP implementation</li>
+                        <li>> Rackspace NOC migration/consolidation</li>
+                        <li>> Datacenter virtualization/consolidation</li>
+                    </ul>
                 </div>
             </div>
+
+
+        </div>
+        <div class="section1containerrt">
+            <div class="section1center">
+                <img src="images/technical-leadership-skills.png" />
+            </div>
+        </div>
+        <div class="clear" />
+    </div>
+
+        <h3 class="recenthilights">A History of Leading Technological and Business Transformations</h3>
+        <hr />
+        <p class="instructiontext">Hover over the icons below to learn more</p>        
+        <img src="images/FunctionTimelineOnly.jpg" usemap="#image-maps-2014-12-05-024618" />
+
         <div class="clear"></div>
         <br />
+
+
+            <div class="gen2column">
+                <div class="genlt">
+
+                    <h3 class="recenthilights">Speaking Personally</h3>
+                    <hr />
+
+                    <p>
+                        <span class="jeffblue qna">Q</span> How do you envision the role of IT leadership in the future?
+                        <br />
+                        <span class="jeffblue qna">A</span> Each day technology becomes more embedded in everything we do.  IT has a window to the entire organization and it is therefore incumbent on the IT leadership to provide the glue and the tools that create and drive collaboration, innovation and volume.
+                    </p>
+                    <p>
+                        <span class="jeffblue qna">Q</span> How have you adapted to the evolution of Cloud and Virtualization and its role in today’s business climate?
+                        <br />
+                        <span class="jeffblue qna">A</span> The cloud has truly revolutionized technology and the business landscape.  Cloud, virtualization and automation has become a cornerstone of my IT strategy and philosophy.  I have embraced and successfully leveraged this concept to improve productivity, reduce costs, enable mobility, reduce risk, stimulate collaboration and ultimately provide better services and value for the customers.
+                    </p>
+                    <p>
+                        <span class="jeffblue qna">Q</span> What is the secret to leading large scale change initiatives effectively?
+                        <br />
+                        <span class="jeffblue qna">A</span> Throughout my career I have successfully led many significant change initiatives.  The success model begins with the governance process of choosing motivating initiatives that drive company strategy.  Aligning stakeholders at all levels in the process and maintaining full engagement throughout is the key for successful project execution.  While implementing technology plays a part in most initiatives, benefits are delivered only through successful change management.  It is about ensuring everyone involved understands the change from their perspective and how to best leverage the new tools and processes to the fullest extent.
+                    </p>
+
+                </div>
+                <div class="genrt">
+                     <div class="section1center">
+                         <br />
+                         <br />
+                        <img src="images/jeffrey-medina-dynamic-results.png" alt="Jeffrey Medina - Dynamic Results" />
+                         </div>
+                </div>
+                <div class="clear" />
+            </div>
+
+
+        </div>
+        
         <p class="contacttxt">Contact: <a href="mailto:jeff@jeffreymedina.com">jeff@jeffreymedina.com</a> for more information.</p>
         <br />
         <div class="footer">&copy <asp:Label ID="footeryear" runat="server"></asp:Label> JeffreyMedina.com.  All Rights Reserved.</div>
-    </div>
+  
 
 
 <%--<img id="Image-Maps-Com-image-maps-2014-12-05-024618" src="#m/private/0/lp0272rai2hm80thbmjgkttho3_untitled-1.jpg" border="0" width="1258" height="250" orgWidth="1258" orgHeight="250" usemap="#image-maps-2014-12-05-024618" alt="" />--%>
@@ -89,6 +163,24 @@
 
     </form>
 
+    <!-- HeadRoom  -->
+    <style type="text/css">
+
+    </style>
+
+    <script src="js/headroom.min.js"></script>
+
+    <script type="text/javascript">
+       // $(".headroom").headroom();
+
+        // grab an element
+        var myElement = document.querySelector("header");
+        // construct an instance of Headroom, passing the element
+        var headroom = new Headroom(myElement);
+        // initialise
+        headroom.init();
+    </script>   
+
 <script>
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -101,6 +193,7 @@
     ga('send', 'pageview');
 
 </script>
+
 
 </body>
 </html>
