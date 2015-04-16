@@ -47,7 +47,7 @@
             
 
         <br />
-    <div class="section1container">
+    <section class="section1container">
         <div class="section1containerlt">
             <h1 class="headline"><strong><em><span class="jeffblue">Pioneering IT / Business leader</span></em></strong> who increases productivity and profit by leading the discovery, adoption and implementation of new technologies across the enterprise; reducing costs, making business operations more efficient and continually improving the customer experience.</h1>
             <br />
@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="clear" />
-    </div>
+    </section>
 
         <h3 class="recenthilights">A History of Leading Technological and Business Transformations</h3>
         <hr />

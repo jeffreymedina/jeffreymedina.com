@@ -9,12 +9,13 @@
     height:64px;
     background-image:url("/images/header_bkgrnd.gif");
     background-repeat:repeat;
+    padding-left:10px;
 }
 
 
 
 .innerheader{
-    width:1259px;
+    max-width:1259px;
     margin:0 auto;
 }
 .innerheader img{
@@ -23,7 +24,6 @@
 }
 .innerheaderlt{
     float:left;
-    width:800px;
 }
 .innerheaderrt{
     float:right;
@@ -36,7 +36,7 @@
 .bodysection{
     padding-left:10px;
     padding-right:10px;
-    width:1259px;
+    max-width:1259px;
     margin:0 auto;
 }
 .headerandtagline {
@@ -50,7 +50,6 @@
 }
 .headline{
     font-size:14pt;
-    width:680px;
 }
 .subheadline{
     font-size:18pt;
@@ -101,11 +100,13 @@
 }
 .section1containerlt{
     float:left;
-    width:690px;
+    max-width:690px;
 }
 .section1containerrt{
-    float: right;
-    width: 500px;
+    float: left;
+    max-width: 500px;
+    width:100%;
+    padding-left:10px;
 }
 
 .section3center{
