@@ -25,7 +25,7 @@
 <body>
     <form id="form1" runat="server">
 
-<header class="headroom">
+    <header class="headroom">
 <div class="header">
         <div class="innerheader">
             <div class="innerheaderlt">
@@ -41,12 +41,9 @@
     </div>
     </header>
 
-
     <div class="bodysection">
+    <br />
 
-            
-
-        <br />
     <section class="section1container">
         <div class="section1containerlt">
             <h1 class="headline"><strong><em><span class="jeffblue">Pioneering IT / Business leader</span></em></strong> who increases productivity and profit by leading the discovery, adoption and implementation of new technologies across the enterprise; reducing costs, making business operations more efficient and continually improving the customer experience.</h1>
@@ -86,17 +83,23 @@
         <div class="clear" />
     </section>
 
+    <section>
         <h3 class="recenthilights">A History of Leading Technological and Business Transformations</h3>
         <hr />
-        <p class="instructiontext">Hover over the icons below to learn more</p>        
-        <img src="images/FunctionTimelineOnly.jpg" usemap="#image-maps-2014-12-05-024618" />
+        <p class="instructiontext">Hover over the icons below to learn more
+            <br />      
+        </p>  
+        <div class="timelinescroll">
+            <img src="images/FunctionTimelineOnly.jpg" usemap="#image-maps-2014-12-05-024618" />
+        </div>
+    </section>
 
-        <div class="clear"></div>
+        
         <br />
 
 
             <div class="gen2column">
-                <div class="genlt">
+                <div class="section3containerlt">
 
                     <h3 class="recenthilights">Speaking Personally</h3>
                     <hr />
@@ -118,7 +121,7 @@
                     </p>
 
                 </div>
-                <div class="genrt">
+                <div class="section3containerrt">
                      <div class="section1center">
                          <br />
                          <br />

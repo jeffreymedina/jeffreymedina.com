@@ -108,17 +108,22 @@
     width:100%;
     padding-left:10px;
 }
+.timelinescroll{
+    overflow-x: scroll;
+}
 
 .section3center{
     text-align:center;
 }
 .section3containerlt{
-    float:left;
-    width:690px;
+   float:left;
+    max-width:690px;
 }
 .section3containerrt{
-    float: right;
-    width: 500px;
+    float: left;
+    max-width: 500px;
+    width:100%;
+    padding-left:10px;
 }
 
 .qna{
