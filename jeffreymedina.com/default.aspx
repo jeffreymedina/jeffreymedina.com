@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>DRIVING GROWTH THROUGH LEADERSHIP, INNOVATION AND VALUE | Jeffrey Medina</title>
+    <title>ACCELERATING GROWTH THROUGH INNOVATION, LEADERSHIP AND VALUE | Jeffrey Medina</title>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="icon" href="/favicon.ico" type="image/x-icon" />
     <link href="css/main.css" rel="stylesheet" />
@@ -31,7 +31,7 @@
             <div class="innerheaderlt">
                 <img src="images/jm_logo.png" alt="Jeffrey Medina" />
 
-                <p class="headerandtagline">DRIVING GROWTH THROUGH LEADERSHIP, INNOVATION AND VALUE</p>
+                <p class="headerandtagline">ACCELERATING GROWTH THROUGH INNOVATION, LEADERSHIP AND VALUE</p>
 
             </div>
             <div class="innerheaderrt">
