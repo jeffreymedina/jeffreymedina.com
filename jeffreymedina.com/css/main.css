@@ -132,11 +132,77 @@
     vertical-align: baseline;
 }
 
+
+.contactcontainer{
+    background:url('../images/contactbkgrndgradient.png') repeat-x;
+}
+.contactcontainerarrow{
+    background:url('../images/contactcontainerarrow.png');
+    height:23px;
+    width:45px;
+    margin:0 auto;
+}
+.contactform{
+    width:400px;
+    margin:0 auto;
+    display:table;
+}
+.contactformrow{
+    display:table-row;
+}
+.contactformcell{
+    display:table-cell;
+    padding-bottom:15px;
+    padding-right:83px;
+}
+.contacttextbox{
+    width: 450px;
+    height: 27px;
+}
+.contactform ul{
+    list-style:none;
+}
+.contactformlabels{
+    color:white;
+    padding:0 10px 0 0;
+    text-align:right;
+}
+#message{
+    resize: none;
+}
+#messagepanel{
+    height:402px;
+}
+#messagesentpanel{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 10px 0px;
+}
+.submitbuttoncontainer{
+    text-align:center;
+}
+#sendmessage{
+    background-image:url('../images/submit-button.png');
+    width:117px;
+    height:78px;
+  background-color: transparent;
+  border: 0;
+  margin-top: -16px;
+    color: white;
+  font-weight: bold;
+  font-size: 13pt;
+  cursor:pointer;
+background-position-x: 3px;
+  background-position-y: 5px;
+}
+
 .clear{
     clear:both;
 }
 .footer{
     font-size:10pt;
+  padding: 25px 0px;
+  vertical-align: middle;
 }
 
 
