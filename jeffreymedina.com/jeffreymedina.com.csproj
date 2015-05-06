@@ -61,6 +61,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\jeffreymedina.com.dll" />
+    <Content Include="bin\jeffreymedina.com.pdb" />
     <Content Include="images\contactbkgrndgradient.png" />
     <Content Include="images\contactcontainerarrow.png" />
     <Content Include="images\jeffrey-medina-dynamic-results.png" />
@@ -68,6 +71,7 @@
     <Content Include="images\technical-leadership-skills.png" />
     <Content Include="js\headroom.min.js" />
     <Content Include="resources\Jeffrey_Medina_Salesforce_Solution_Architect.docx" />
+    <Content Include="bin\jeffreymedina.com.dll.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
